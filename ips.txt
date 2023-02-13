@@ -1,4 +1,1 @@
-https://pay.wbpremium.com.br
-https://wbpremium.tech
-http://localhost/apissh2/
-http://localhost/apissh2/install.php
+https://pay.wbpremium.com.br/
