@@ -1,2 +1,2 @@
-https://up.abc.com
+https://up.wbpremium.com
 http://localhost/up.abc.com
