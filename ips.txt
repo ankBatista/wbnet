@@ -1,1 +1,2 @@
 pay.wbpremium.com.br
+http://localhost/up.wbpremium.com
