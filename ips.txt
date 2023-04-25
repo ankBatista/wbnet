@@ -1,2 +1,2 @@
-pay.wbpremium.com
+pay.bpremium.com
 localhost/up.wbpremium.com
